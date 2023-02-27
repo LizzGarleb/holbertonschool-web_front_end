@@ -411,7 +411,7 @@ a{
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
 }
-div {
+.container {
     width: 960px;
     margin: auto;
 }
