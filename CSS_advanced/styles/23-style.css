@@ -524,6 +524,6 @@ a:active {
 .social-link {
   display: block;
 }
-.social-link  svg {
+.social-link object[type*=svg] {
   background-color: var(--text-color);
 }
