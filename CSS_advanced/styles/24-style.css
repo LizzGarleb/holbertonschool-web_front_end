@@ -528,7 +528,7 @@ a:active {
   fill: var(--text-color);
 }
 .card-services .card-title {
-  margin: none;
+  margin: 0;
 }
 .card-services a {
   padding: 2rem;
