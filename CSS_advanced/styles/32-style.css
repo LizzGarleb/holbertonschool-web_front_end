@@ -483,7 +483,7 @@ html {
   transform: scale(1.2);
   transition: var(–transition-duration) var(transition-cubic-bezier);
 }
-.card:hover .card-outer {
+.card-work:hover .card-outer {
   transform: scale(0.95);
 }
 .card-work:hover .card-inner {
@@ -524,10 +524,10 @@ html {
   color: #efeded;
   font-size: 10rem;
   z-index: -1;
-  transition: var(–transition-duration) var(transition-cubic-bezier);
 }
 .nav .nav-link:hover {
   color: var(--nav-item-link-hover);
+  transition: var(–transition-duration) var(transition-cubic-bezier);
 }
 body {
     color: var(--text-color);
